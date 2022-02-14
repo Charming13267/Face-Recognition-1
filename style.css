@@ -1,0 +1,22 @@
+body {
+    color:rgb(0, 145, 43);
+    background:yellow;
+}
+
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+
+.name_of_objects,#reserve_object_name,#reserve_object_accruacy{
+    color: blue;
+}
+
+#camera{
+    border:2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+
+
